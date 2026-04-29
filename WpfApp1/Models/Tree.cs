@@ -13,6 +13,8 @@ public class Tree
     /// </summary>
     public UIElement Element { get; set; }
 
+    public double Test { get; set; }
+
     /// <summary>
     /// Gets or sets the current coordinates of the tree on the canvas.
     /// </summary>
